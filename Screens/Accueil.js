@@ -74,8 +74,8 @@ const Accueil = ({navigation}) => {
 
     // Display a notification
     await notifee.displayNotification({
-      title: 'Bonjour',
-      body: 'Ceci est une notification',
+      title: 'Notification envoyée',
+      body: 'La notification a bien été envoyée',
       android: {
         channelId,
         pressAction: {
