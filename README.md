@@ -1,6 +1,6 @@
 # Liste des fonctionnalitées de l'application
 
-API : https://zoo-animal-api.herokuapp.com/animals/rand/10
+API : https://zoo-animal-api.herokuapp.com/animals/rand/10.
 L'API sélectionne une lsite de 10 animaux au hasard.
 
 Ecran d'accueil avec boutons :
